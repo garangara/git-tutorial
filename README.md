@@ -16,4 +16,4 @@ Gitの操作方法を学ぶためのリポジトリ
 ### sasamari-myun
 
 - Name : sasamari-myun
-- Age : 26
+- Age : 26(27の年です)
