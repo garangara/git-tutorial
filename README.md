@@ -6,7 +6,14 @@ Git チュートリアル用
 
 Gitの操作方法を学ぶためのリポジトリ
 
-## Profile
+## Profiles
+
+### garangara
 
 - Name : garangara
 - Age : 27
+
+### sasamari-myun
+
+- Name : sasamari-myun
+- Age : 26
