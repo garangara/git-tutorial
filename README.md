@@ -1,7 +1,7 @@
 # git-tutorial
 Git チュートリアル用
 
-## intro
+## Intro
 Gitの操作方法を学ぶためのリポジトリ
 
 ## Profile
