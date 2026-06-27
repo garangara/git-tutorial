@@ -6,7 +6,7 @@ Git チュートリアル用
 
 Gitの操作方法を学ぶためのリポジトリ
 
-## Profile
+## Profiles
 
 ### garangara
 
